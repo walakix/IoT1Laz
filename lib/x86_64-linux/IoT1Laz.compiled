@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -l -vewnhibq -Fi/home/walaki/Prg/Lazarus/IoT1Laz/lib/x86_64-linux -Fu/usr/share/lazarus/3.2.0/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/3.2.0/lcl/units/x86_64-linux -Fu/usr/share/lazarus/3.2.0/components/freetype/lib/x86_64-linux -Fu/usr/share/lazarus/3.2.0/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/3.2.0/packager/units/x86_64-linux -Fu/home/walaki/Prg/Lazarus/IoT1Laz/ -FU/home/walaki/Prg/Lazarus/IoT1Laz/lib/x86_64-linux/ -FE/home/walaki/Prg/Lazarus/IoT1Laz/ -o/home/walaki/Prg/Lazarus/IoT1Laz/IoT1Laz -dLCL -dLCLgtk2 IoT1Laz.lpr"/>
+</CONFIG>
